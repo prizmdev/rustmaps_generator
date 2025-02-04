@@ -11,7 +11,7 @@ There are two variables you HAVE TO adapt before starting:
 
 And a few more you SHOULD adapt to your needs:
 - staging (whether or not the generated maps should be for the staging branch)
-- seed_history (stores the seeds previously used for generation to avoid duplicates)
+- seed_history (the file that stores the seeds previously used for generation to avoid duplicates)
 - retry_interval (The amount of seconds to wait between generation attempts)
 
 ## Further information
